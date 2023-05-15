@@ -1,2 +1,2 @@
 # BaseballAnalytics
-This is the first part in a two part project. I used the Lahman Baseball Database and focused on batting data. I opted to use traditional machine learning classification techniques instead of something more advanced such as a Neural Net for these projects.
+This is a two part project. I used the Lahman Baseball Database and focused on batting data, then pitching data. I opted to use traditional machine learning classification techniques instead of something more advanced such as a Neural Net for these projects. The goal of this project is to predict a top tier batter and a top tier pitcher using some advanced baseball statistics not included in the database.
